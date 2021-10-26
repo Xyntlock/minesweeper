@@ -1,14 +1,22 @@
 package src;
 
+import java.util.Arrays;
+
 public class Game {
 
-    private Board board;
+    public Board board = new Board();
 
-    public static final int TILE_WIDTH = 20;
-    public static final int TILE_HEIGHT = 20;
+    /**
+     * For rendering the UI
+     */
+    public final int TILE_WIDTH = 20;
+    public final int TILE_HEIGHT = 20;
 
-    public static void main(String[] args) {
+    public Game() {
 
     }
 
+    public void printBoard() {
+        System.out.println(Arrays.toString(board.cells));
+    }
 }

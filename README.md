@@ -17,4 +17,4 @@ This is a recreation of the game, along with solving algorithm
 
 > JcbSm#5491
 <br>
-Xyntlock#4658
+> Xyntlock#4658

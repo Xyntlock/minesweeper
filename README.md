@@ -1,8 +1,6 @@
 <div align="center">
 
-# Minesweeper
-
-**Minesweeper; in Java**
+# **Minesweeper; Java**
 
 </div>
 

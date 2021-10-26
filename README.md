@@ -16,5 +16,4 @@ This is a recreation of the game, along with solving algorithm
 ## Credits
 
 > JcbSm#5491
-<br>
 > Xyntlock#4658

@@ -9,7 +9,7 @@
 ## Description
 
 Minesweeper is a classic, veteran windows users will know the classic. <br>
-This is a recreation of the game, along with solving algorithm
+This is a recreation of the game, along with solving algorithm.
 
 ## Credits
 
